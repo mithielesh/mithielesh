@@ -119,16 +119,6 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mithielesh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/>
-
-<div align="center">
-  <h2>📊 Weekly Development Breakdown</h2>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mithielesh&theme=radical" alt="WakaTime Stats" />
-</div>
-
 <br/><br/>
 
 <hr/>
