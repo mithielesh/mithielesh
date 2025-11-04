@@ -40,7 +40,7 @@ I enjoy building efficient software systems with clean architecture and modern d
 ---
 
 ## GitHub Activity
-![GitHub Snake](https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/mithielesh/mithielesh/output/github-contribution-grid-snake.svg)
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mithielesh&theme=github-dark)](https://github.com/mithielesh)
 
