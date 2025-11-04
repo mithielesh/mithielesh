@@ -1,149 +1,187 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=header&text=Hi%20there%20Viewer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=HI%20THERE%20VIEWER&fontSize=70&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=SOFTWARE%20ARCHITECT%20|%20MITHIELESH%20N&descAlignY=51&descAlign=50&descSize=20" />
 </div>
 
 <div align="center">
-  
-# 🎮 MITHIELESH N 🎮
-### 『 Level 21 Developer 』
 
-> **[GAME STATUS]** Engineering student on a quest to build epic software solutions and master emerging technologies. Current focus: Backend dungeons, Cloud castles, and ML mysteries.
+```ascii
+╔═══════════════════════════════════════════════════════════════════════════╗
+║                                                                           ║
+║   ██╗  ██╗██╗    ████████╗██╗  ██╗███████╗██████╗ ███████╗              ║
+║   ██║  ██║██║    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝              ║
+║   ███████║██║       ██║   ███████║█████╗  ██████╔╝█████╗                ║
+║   ██╔══██║██║       ██║   ██╔══██║██╔══╝  ██╔══██╗██╔══╝                ║
+║   ██║  ██║██║       ██║   ██║  ██║███████╗██║  ██║███████╗              ║
+║   ╚═╝  ╚═╝╚═╝       ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝              ║
+║                                                                           ║
+║   ██╗   ██╗██╗███████╗██╗    ██╗███████╗██████╗                         ║
+║   ██║   ██║██║██╔════╝██║    ██║██╔════╝██╔══██╗                        ║
+║   ██║   ██║██║█████╗  ██║ █╗ ██║█████╗  ██████╔╝                        ║
+║   ╚██╗ ██╔╝██║██╔══╝  ██║███╗██║██╔══╝  ██╔══██╗                        ║
+║    ╚████╔╝ ██║███████╗╚███╔███╔╝███████╗██║  ██║                        ║
+║     ╚═══╝  ╚═╝╚══════╝ ╚══╝╚══╝ ╚══════╝╚═╝  ╚═╝                        ║
+║                                                                           ║
+║   ┌─────────────────────────────────────────────────────────────────┐   ║
+║   │  NAME:        MITHIELESH N                                      │   ║
+║   │  ROLE:        FULL-TIME STUDENT                                 │   ║
+║   │               PART-TIME DEVELOPER                               │   ║
+║   │  STATUS:      ACTIVE DEVELOPMENT                                │   ║
+║   │                                                                 │   ║
+║   └─────────────────────────────────────────────────────────────────┘   ║
+║                                                                           ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=💻+BACKEND+DEVELOPER;☁️+CLOUD+ENTHUSIAST;🤖+ML+EXPLORER;🧩+PROBLEM+SOLVER;🎯+ACHIEVEMENT+UNLOCKED!" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=BACKEND+SYSTEMS+ARCHITECT;CLOUD+INFRASTRUCTURE+ENGINEER;MACHINE+LEARNING+PIPELINE+DEVELOPER;DISTRIBUTED+SYSTEMS+SPECIALIST" alt="Terminal Typing" />
 
 </div>
 
 <div align="center">
-  
-### 🕹️ CONNECT & COLLABORATE 🕹️
+
+```bash
+$ connect --network=professional
+```
 
 <a href="mailto:mithieleshn@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black&color=FF6B6B" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/MAIL-SECURE_CHANNEL-00ff41?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=0a0a0a&color=1a1a1a" alt="Email"/>
 </a>
 <a href="https://linkedin.com/in/mithieleshn">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black&color=4ECDC4" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-NETWORK_LINK-00ff41?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=0a0a0a&color=1a1a1a" alt="LinkedIn"/>
 </a>
 <a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Coming_Soon!-45B7D1?style=for-the-badge&logo=safari&logoColor=white&labelColor=black" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-UNDER_CONSTRUCTION-00ff41?style=for-the-badge&logo=buffer&logoColor=00ff41&labelColor=0a0a0a&color=1a1a1a" alt="Portfolio"/>
 </a>
 
 </div>
 
 ---
 
-<div align="center">
-  
-## 🎯 PLAYER STATS 🎯
+<table align="center">
+<tr>
+<td width="55%">
 
-</div>
-
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 15px;">
-
-### 📊 About This Player
-```yaml
-Player_Class: Full_Stack_Developer
-Current_Level: Information_Technology_Student
-Main_Quests: 
-  - Backend_Development ⚔️
-  - Cloud_Computing ☁️
-  - DevOps_Mastery 🛠️
-  - Machine_Learning 🤖
-Status: Seeking_New_Adventures
-Guild: Open_Source_Contributors
+```python
+class SystemArchitect:
+    def __init__(self):
+        self.name = "Mithielesh N"
+        self.role = "Full-Stack Developer"
+        self.language_stack = [
+            "Python", "JavaScript", "Java", 
+            "Go", "TypeScript"
+        ]
+        
+    def get_expertise(self):
+        return {
+            "backend": ["Node.js", "Express", "REST APIs"],
+            "cloud": ["Docker", "Kubernetes", "AWS", "GCP"],
+            "databases": ["PostgreSQL", "MongoDB", "Redis"],
+            "frontend": ["React", "HTML5", "CSS3"],
+            "ml_ops": ["TensorFlow", "PyTorch", "Pipeline Design"]
+        }
+    
+    def current_focus(self):
+        return [
+            "Distributed Systems Architecture",
+            "Cloud-Native Application Development",
+            "Machine Learning Infrastructure",
+            "High-Performance Computing"
+        ]
 ```
 
-**🏆 Current Achievements:**
-- 🎓 IT Undergraduate (In Progress)
-- 💻 Backend Architecture Specialist
-- ☁️ Cloud Infrastructure Builder
-- 🔧 DevOps Pipeline Creator
+</td>
+<td width="45%">
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" alt="Coding Animation"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
-  
-## ⚡ SKILL TREE ⚡
+
+```bash
+$ ls -la /skills/technical_stack
+```
 
 </div>
 
-### 🗡️ **Weapons of Choice**
-```
-🐍 Python        🟨 JavaScript    ☕ Java
-🐹 Go           📘 TypeScript
-```
-
-### 🏰 **Backend Fortress**
-```
-🟢 Node.js      ⚡ Express       🔌 REST APIs    
-🏗️ Microservices
-```
-
-### ☁️ **Cloud Kingdom**
-```
-🐳 Docker       ☸️ Kubernetes    🅰️ AWS         
-🌐 GCP          🔄 CI/CD
-```
-
-### 🗄️ **Data Vaults**
-```
-🐘 PostgreSQL   🍃 MongoDB       🔴 Redis
-```
-
-### 🎨 **Frontend Magic**
-```
-⚛️ React        🎨 HTML/CSS      📱 Responsive Design
-```
+<table align="center" width="90%">
+<tr>
+<td width="30%"><strong>CORE LANGUAGES</strong></td>
+<td width="70%"><img src="https://skillicons.dev/icons?i=python,java,js,go,ts,c,cpp&theme=dark"/></td>
+</tr>
+<tr>
+<td><strong>BACKEND FRAMEWORKS</strong></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi&theme=dark"/></td>
+</tr>
+<tr>
+<td><strong>CLOUD & DEVOPS</strong></td>
+<td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,jenkins&theme=dark"/></td>
+</tr>
+<tr>
+<td><strong>DATABASES</strong></td>
+<td><img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,sqlite&theme=dark"/></td>
+</tr>
+<tr>
+<td><strong>FRONTEND & TOOLS</strong></td>
+<td><img src="https://skillicons.dev/icons?i=react,html,css,git,linux,vscode&theme=dark"/></td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
-  
-## 🎮 TECH INVENTORY 🎮
 
-<img src="https://skillicons.dev/icons?i=python,java,js,go,ts,react,nodejs,postgres,docker,gcp,aws&theme=dark" alt="tech-icons" />
+```bash
+$ git log --graph --oneline --decorate
+```
 
-</div>
-
----
-
-<div align="center">
-  
-## 📈 BATTLE STATISTICS 📈
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mithielesh&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=45B7D1&area=true&hide_border=true&custom_title=🎮%20CODING%20ADVENTURE%20MAP%20🎮" />
-
-</div>
-
----
-
-<div align="center">
-  
-## 🐍 CONTRIBUTION SNAKE GAME 🐍
-
-![GitHub Snake](https://raw.githubusercontent.com/mithielesh/mithielesh/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mithielesh&bg_color=0a0a0a&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=true&custom_title=COMMIT+FREQUENCY+ANALYSIS" width="95%"/>
 
 </div>
 
 ---
 
 <div align="center">
-  
-## 🏆 GITHUB ACHIEVEMENTS 🏆
 
-<img src="https://github-readme-stats.vercel.app/api?username=mithielesh&theme=radical&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=ffffff&custom_title=🎮%20Player%20Stats" alt="GitHub Stats" />
+```bash
+$ ./visualize_contributions.sh
+```
+
+![Contribution Graph](https://raw.githubusercontent.com/mithielesh/mithielesh/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
 <div align="center">
-  
-### 🎊 Ready to Join Forces? 🎊
 
-**Send a friend request or start a co-op mission!**
+```bash
+$ cat /stats/github_metrics.json
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=100&section=footer&animation=twinkling" />
+<img src="https://github-readme-stats.vercel.app/api?username=mithielesh&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_radius=0&custom_title=RUNTIME+STATISTICS" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithielesh&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=ffffff&border_radius=0" width="48%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```ascii
+╔════════════════════════════════════════════════════════════════════╗
+║                                                                    ║
+║  STATUS:           AVAILABLE FOR COLLABORATION                     ║
+║  RESPONSE_TIME:    < 24 HOURS                                      ║
+║  SPECIALIZATION:   SCALABLE SYSTEM ARCHITECTURE                    ║
+║  OPEN_TO:          FULL-TIME | INTERNSHIP | FREELANCE              ║
+║                                                                    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=00ff41&height=150&section=footer&text=END+OF+TRANSMISSION&fontSize=20&fontColor=00ff41&animation=fadeIn" />
 
 </div>
