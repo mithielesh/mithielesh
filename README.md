@@ -32,7 +32,7 @@
       ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=BACKEND+SYSTEMS+ARCHITECT;CLOUD+INFRASTRUCTURE+ENGINEER;MACHINE+LEARNING+PIPELINE+DEVELOPER;DISTRIBUTED+SYSTEMS+SPECIALIST" alt="Terminal Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=JUST+A+STUDENT+WHO+LOVES+TO+BUILD;LEARNING+FULL+STACK,+ML,+AND+DSA;EXPLORING+DATA,+AI,+AND+CLOUD;ALWAYS+CURIOUS,+ALWAYS+LEARNING" alt="Typing SVG" />
 
 </div>
 
