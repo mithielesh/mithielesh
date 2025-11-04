@@ -81,7 +81,7 @@
         <h3 align="center">ShieldBox</h3>
         <div align="center">
           <a href="https://github.com/mithielesh/ShieldBox" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=tokyonight" alt="Project 2" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=mithielesh&repo=ShieldBox&theme=tokyonight" alt="ShieldBox" />
           </a>
           <br/>
           <br/>
