@@ -162,8 +162,8 @@ $ ./visualize_contributions.sh
 $ cat /stats/github_metrics.json
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=mithielesh&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_radius=0&custom_title=RUNTIME+STATISTICS" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithielesh&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=ffffff&border_radius=0" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mithielesh&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_radius=0&custom_title=RUNTIME+STATISTICS&include_all_commits=true&count_private=true&rank_icon=github" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithielesh&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=ffffff&border_radius=0&langs_count=4&hide_progress=true" width="48%"/>
 
 </div>
 
@@ -181,7 +181,8 @@ $ cat /stats/github_metrics.json
 ║                                                                    ║
 ╚════════════════════════════════════════════════════════════════════╝
 ```
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=00ff41&height=150&section=footer&text=END+OF+TRANSMISSION&fontSize=20&fontColor=00ff41&animation=fadeIn" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Shutting+down+connection...;[PROCESS_EXITED_WITH_CODE_0]&font=Fira+Code&center=true&width=440&height=50&color=00ff41&background=0a0a0a&vCenter=true&pause=1000&random=false" />
+</p>
 
 </div>
