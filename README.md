@@ -156,18 +156,6 @@ $ ./visualize_contributions.sh
 
 </div>
 
----
-
-<div align="center">
-
-```bash
-$ cat /stats/github_metrics.json
-```
-
-<img src="https://github-readme-stats.vercel.app/api?username=mithielesh&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=ffffff&border_radius=0&custom_title=RUNTIME+STATISTICS&include_all_commits=true&count_private=true&rank_icon=github" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithielesh&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=ffffff&border_radius=0&langs_count=4&hide_progress=true" width="48%"/>
-
-</div>
 
 ---
 
