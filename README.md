@@ -151,7 +151,7 @@ $ ./visualize_contributions.sh
 ```
 
 <div align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="100%">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph" />
 </div>
 
 </div>
