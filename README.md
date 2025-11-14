@@ -110,7 +110,7 @@ $ ls -la /skills/technical_stack
 <table align="center" width="90%">
 <tr>
 <td width="30%"><strong>CORE LANGUAGES</strong></td>
-<td width="70%"><img src="https://skillicons.dev/icons?i=python,java,js,go,ts,c,cpp&theme=dark"/></td>
+<td width="70%"><img src="https://skillicons.dev/icons?i=python,java,js,go,ts,c&theme=dark"/></td>
 </tr>
 <tr>
 <td><strong>BACKEND FRAMEWORKS</strong></td>
@@ -118,11 +118,11 @@ $ ls -la /skills/technical_stack
 </tr>
 <tr>
 <td><strong>CLOUD & DEVOPS</strong></td>
-<td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,jenkins&theme=dark"/></td>
+<td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp&theme=dark"/></td>
 </tr>
 <tr>
 <td><strong>DATABASES</strong></td>
-<td><img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,mysql,sqlite&theme=dark"/></td>
+<td><img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite&theme=dark"/></td>
 </tr>
 <tr>
 <td><strong>FRONTEND & TOOLS</strong></td>
