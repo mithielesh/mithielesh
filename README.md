@@ -98,8 +98,8 @@ $ ls -la /skills/technical_stack
 <tr>
 <td><strong>AI & GEN-AI TOOLS</strong></td>
 <td>
-  <a href="https://ollama.com/"><img height="40" src="https://cdn.simpleicons.org/ollama/white" height="40" width="40" valign="middle" alt="Ollama" /></a>
-  <a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" width="40" valign="middle" alt="Hugging Face" /></a>
+  <a href="https://ollama.com/"><img height="40" src="https://cdn.simpleicons.org/ollama/white" height="40" width="40" valign="top" alt="Ollama" /></a>
+  <a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" width="40" valign="top" alt="Hugging Face" /></a>
   <img width="40px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="ChatGPT" title="ChatGPT"/>
   <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/512px-Google_Gemini_logo.svg.png" alt="Gemini" title="Google Gemini"/>
 </td>
