@@ -96,8 +96,28 @@ $ ls -la /skills/technical_stack
 <td><img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite&theme=dark"/></td>
 </tr>
 <tr>
-<td><strong>FRONTEND & TOOLS</strong></td>
-<td><img src="https://skillicons.dev/icons?i=react,html,css,git,linux,vscode&theme=dark"/></td>
+<td><strong>AI & GEN-AI TOOLS</strong></td>
+<td>
+  <a href="https://ollama.com/"><img src="https://cdn.simpleicons.org/ollama/white" height="40" width="40" valign="middle" alt="Ollama" /></a>
+  &nbsp;
+  <a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" width="40" valign="middle" alt="Hugging Face" /></a>
+  &nbsp;
+  <img width="40px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="ChatGPT" title="ChatGPT"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/--141414?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+</td>
+</tr>
+<tr>
+<td><strong>FRONTEND</strong></td>
+<td><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark"/></td>
+</tr>
+<tr>
+<td><strong>IDE & TOOLS</strong></td>
+<td>
+  <img src="https://skillicons.dev/icons?i=vscode,git,idea&theme=dark" valign="bottom"/>
+  <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Google_Developers_logo.svg/1200px-Google_Developers_logo.svg.png" alt="Antigravity" title="Google Antigravity" valign="middle"/>
+    <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Google_AI_logo.svg" alt="Google AI Studio" title="Google AI Studio" valign="middle"/>
+</td>
 </tr>
 </table>
 
