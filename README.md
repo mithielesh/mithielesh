@@ -81,40 +81,40 @@ $ ls -la /skills/technical_stack
 <table align="center" width="90%">
 <tr>
 <td width="30%"><strong>CORE LANGUAGES</strong></td>
-<td width="70%"><img src="https://skillicons.dev/icons?i=python,java,js,c&theme=dark"/></td>
+<td width="70%"><img height="40" src="https://skillicons.dev/icons?i=python,java,js,c&theme=dark"/></td>
 </tr>
 <tr>
 <td><strong>BACKEND FRAMEWORKS</strong></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark"/></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark"/></td>
 </tr>
 <tr>
 <td><strong>CLOUD & DEVOPS</strong></td>
-<td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp&theme=dark"/></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp&theme=dark"/></td>
 </tr>
 <tr>
 <td><strong>DATABASES</strong></td>
-<td><img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite&theme=dark"/></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite&theme=dark"/></td>
 </tr>
 <tr>
 <td><strong>AI & GEN-AI TOOLS</strong></td>
 <td>
-  <a href="https://ollama.com/"><img src="https://cdn.simpleicons.org/ollama/white" height="40" width="40" valign="middle" alt="Ollama" /></a>
+  <a href="https://ollama.com/"><img height="40" src="https://cdn.simpleicons.org/ollama/white" height="40" width="40" valign="middle" alt="Ollama" /></a>
   &nbsp;
   <a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="40" width="40" valign="middle" alt="Hugging Face" /></a>
   &nbsp;
   <img width="40px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="ChatGPT" title="ChatGPT"/>
   &nbsp;
-  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/512px-Google_Gemini_logo.svg.png" alt="Gemini" title="Google Gemini"/>
+  <img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/512px-Google_Gemini_logo.svg.png" alt="Gemini" title="Google Gemini"/>
 </td>
 </tr>
 <tr>
 <td><strong>FRONTEND</strong></td>
-<td><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark"/></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark"/></td>
 </tr>
 <tr>
 <td><strong>IDE & TOOLS</strong></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=vscode,git,linux,idea&theme=dark" valign="bottom"/>
+  <img height="40" src="https://skillicons.dev/icons?i=vscode,git,linux,idea&theme=dark" valign="bottom"/>
 </td>
 </tr>
 </table>
