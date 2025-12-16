@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Tech Stack"/>
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" height="400" style="object-fit: cover;" alt="Bongo Cat" />
 </div>
 <br>
 <div align="center">
@@ -81,11 +81,11 @@ $ ls -la /skills/technical_stack
 <table align="center" width="90%">
 <tr>
 <td width="30%"><strong>CORE LANGUAGES</strong></td>
-<td width="70%"><img src="https://skillicons.dev/icons?i=python,java,js,go,ts,c&theme=dark"/></td>
+<td width="70%"><img src="https://skillicons.dev/icons?i=python,java,js,c&theme=dark"/></td>
 </tr>
 <tr>
 <td><strong>BACKEND FRAMEWORKS</strong></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi&theme=dark"/></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark"/></td>
 </tr>
 <tr>
 <td><strong>CLOUD & DEVOPS</strong></td>
@@ -104,7 +104,7 @@ $ ls -la /skills/technical_stack
   &nbsp;
   <img width="40px" src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="ChatGPT" title="ChatGPT"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/--141414?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Google_Gemini_logo.svg/512px-Google_Gemini_logo.svg.png" alt="Gemini" title="Google Gemini"/>
 </td>
 </tr>
 <tr>
@@ -114,9 +114,7 @@ $ ls -la /skills/technical_stack
 <tr>
 <td><strong>IDE & TOOLS</strong></td>
 <td>
-  <img src="https://skillicons.dev/icons?i=vscode,git,idea&theme=dark" valign="bottom"/>
-  <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Google_Developers_logo.svg/1200px-Google_Developers_logo.svg.png" alt="Antigravity" title="Google Antigravity" valign="middle"/>
-    <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Google_AI_logo.svg" alt="Google AI Studio" title="Google AI Studio" valign="middle"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,linux,idea&theme=dark" valign="bottom"/>
 </td>
 </tr>
 </table>
