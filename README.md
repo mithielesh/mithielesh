@@ -35,19 +35,17 @@ $ connect --network=professional
 class SystemArchitect:
     def __init__(self):
         self.name = "Mithielesh N"
-        self.role = "Full-Stack Developer"
+        self.passion = "Find anything related to Data interesting"
         self.language_stack = [
-            "Python", "JavaScript", "Java", 
-            "Go", "TypeScript"
+            "Python", "JavaScript", "Java", "HTML", "CSS"
         ]
         
     def get_expertise(self):
         return {
-            "backend": ["Node.js", "Express", "REST APIs"],
-            "cloud": ["Docker", "Kubernetes", "AWS", "GCP"],
-            "databases": ["PostgreSQL", "MongoDB", "Redis"],
-            "frontend": ["React", "HTML5", "CSS3"],
-            "ml_ops": ["TensorFlow", "PyTorch", "Pipeline Design"]
+            "backend": ["Node.js", "REST APIs"],
+            "cloud": ["Docker", "AWS", "GCP"],
+            "databases": ["PostgreSQL", "MongoDB"],
+            "frontend": ["React", "HTML5", "CSS3"],]
         }
     
     def current_focus(self):
