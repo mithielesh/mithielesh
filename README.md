@@ -1,10 +1,12 @@
+<!--
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" height="400" style="object-fit: cover;" alt="Bongo Cat" />
 </div>
 <br>
+--->
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=JUST+A+STUDENT+WHO+LOVES+TO+BUILD;LEARNING+FULL+STACK,+ML,+AND+DSA;EXPLORING+DATA,+AI,+AND+CLOUD;ALWAYS+CURIOUS,+ALWAYS+LEARNING" alt="Typing SVG" />
-
 </div>
 
 <div align="center">
@@ -35,7 +37,7 @@ $ connect --network=professional
 class SystemArchitect:
     def __init__(self):
         self.name = "Mithielesh N"
-        self.passion = "Find anything related to Data interesting"
+        self.passion = "A student who loves how things work"
         self.language_stack = [
             "Python", "JavaScript", "Java", "HTML", "CSS"
         ]
@@ -44,16 +46,16 @@ class SystemArchitect:
         return {
             "backend": ["Node.js", "REST APIs"],
             "cloud": ["Docker", "AWS", "GCP"],
-            "databases": ["PostgreSQL", "MongoDB"],
+            "databases": ["MySQL", "PostgreSQL", "MongoDB"],
             "frontend": ["React", "HTML5", "CSS3"],]
         }
     
     def current_focus(self):
         return [
-            "Distributed Systems Architecture",
-            "Cloud-Native Application Development",
-            "Machine Learning Infrastructure",
-            "High-Performance Computing"
+            "Data Structure Algorithms",
+            "Cloud and AI in Cloud",
+            "Machine Learning / Deep Learning",
+            "Competitive Programming"
         ]
 ```
 
@@ -87,7 +89,7 @@ $ ls -la /skills/technical_stack
 </tr>
 <tr>
 <td><strong>CLOUD & DEVOPS</strong></td>
-<td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp&theme=dark"/></td>
+<td><img height="40" src="https://skillicons.dev/icons?i=docker,aws,gcp&theme=dark"/></td>
 </tr>
 <tr>
 <td><strong>DATABASES</strong></td>
@@ -149,8 +151,7 @@ $ ./visualize_contributions.sh
 ╔════════════════════════════════════════════════════════════════════╗
 ║                                                                    ║
 ║  STATUS:           AVAILABLE FOR COLLABORATION                     ║
-║  RESPONSE_TIME:    < 24 HOURS                                      ║
-║  SPECIALIZATION:   SCALABLE SYSTEM ARCHITECTURE                    ║
+║  RESPONSE_TIME:    Quick                                           ║
 ║  OPEN_TO:          FULL-TIME | INTERNSHIP | FREELANCE              ║
 ║                                                                    ║
 ╚════════════════════════════════════════════════════════════════════╝
