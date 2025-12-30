@@ -15,20 +15,28 @@ jobs:
           user: mithielesh
           template: classic
           
-          # 1. SHOW ACTIVITY (Top section: "320 Commits", "2 Issues", etc.)
+          # 1. ONLY SHOW ACTIVITY
+          # This keeps the top "Commits", "PRs" list, but removes repos/followers/etc.
           base: activity
           config_timezone: Asia/Kolkata
           
-          # 2. ENABLE STREAK CALCULATION
+          # 2. ENABLE STREAKS (But hide the graph below)
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # 3. THE "INVISIBLE GRAPH" HACK
-          # We enable CSS to color the text Neon Green
-          # AND we explicitly hide the (.isocalendar-plot) so the graph disappears.
+          # 3. CUSTOM CYBER CSS (The Magic Part) 🪄
           config_style: CSS
           config_css: |
+             /* CYBER COLORS */
              body { --color-text-primary: #00ff41; --color-text-secondary: #00ff41; --color-bg: #0a0a0a; }
              .field { color: #ffffff !important; }
-             .isocalendar-plot { display: none !important; } 
-             .isocalendar-items { margin-top: -20px; } /* Pull text up since graph is gone */
+             
+             /* HIDE THE 3D GRAPH VISUAL */
+             .isocalendar-plot { display: none !important; }
+             
+             /* HIDE THE DISCLAIMER TEXT & FOOTER */
+             .footer { display: none !important; }
+             .caption { display: none !important; }
+             
+             /* CLEANUP LAYOUT */
+             .isocalendar-items { margin-top: -20px; } /* Pull text up */
