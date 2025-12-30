@@ -124,7 +124,16 @@ $ ls -la /skills/technical_stack
 $ git log --graph --oneline --decorate
 ```
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mithielesh&bg_color=0a0a0a&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=true&custom_title=COMMIT+FREQUENCY+ANALYSIS" width="95%"/>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/mithielesh/mithielesh/main/github-metrics.svg" alt="Mithielesh's Stats" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mithielesh&bg_color=0a0a0a&color=00ff41&line=00ff41&point=00ff41&area=true&hide_border=true&custom_title=COMMIT+FREQUENCY" alt="Activity Graph" width="100%" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
