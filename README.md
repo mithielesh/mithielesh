@@ -147,12 +147,15 @@ $ ./visualize_contributions.sh
 
 <div align="center">
 
-```ascii
-╔══════════════════════════════════╗
-║ STATUS:   AVAILABLE              ║
-║ RESPONSE: QUICK                  ║
-║ OPEN TO:  JOB / INTERN / GIGS    ║
-╚══════════════════════════════════╝
+```ini
+[OPERATOR_PROFILE: MITHIELESH]
+--------------------------------------------------
+HEALTH       = [▓▓▓▓▓▓▓▓▓▓] 100% (Available)
+MANA         = [▓▓▓▓▓▓▓░░░] Java / DSA Focus
+INVITES      = [PARTY_OPEN] Jobs / Internships
+LOCATION     = [SERVER_IN]  India (IST)
+--------------------------------------------------
+STATUS = ONLINE
 ```
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Shutting+down+connection...;[PROCESS_EXITED_WITH_CODE_0]&font=Fira+Code&center=true&width=440&height=50&color=00ff41&background=0a0a0a&vCenter=true&pause=1000&random=false" />
