@@ -146,7 +146,7 @@ $ ./visualize_contributions.sh
 ```
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mithielesh/mithielesh/main/profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/mithielesh/mithielesh/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
 </div>
 
 </div>
