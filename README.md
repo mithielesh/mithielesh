@@ -37,7 +37,7 @@ $ connect --network=professional
 class SystemArchitect:
     def __init__(self):
         self.name = "Mithielesh N"
-        self.passion = "A student who loves how things work"
+        self.passion = "A student who loves to know how things work"
         self.language_stack = [
             "Python", "JavaScript", "Java", "HTML", "CSS"
         ]
@@ -148,13 +148,11 @@ $ ./visualize_contributions.sh
 <div align="center">
 
 ```ascii
-╔════════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║  STATUS:           AVAILABLE FOR COLLABORATION                     ║
-║  RESPONSE_TIME:    Quick                                           ║
-║  OPEN_TO:          FULL-TIME | INTERNSHIP | FREELANCE              ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════╗
+║ STATUS:   AVAILABLE              ║
+║ RESPONSE: QUICK                  ║
+║ OPEN TO:  JOB / INTERN / GIGS    ║
+╚══════════════════════════════════╝
 ```
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Shutting+down+connection...;[PROCESS_EXITED_WITH_CODE_0]&font=Fira+Code&center=true&width=440&height=50&color=00ff41&background=0a0a0a&vCenter=true&pause=1000&random=false" />
