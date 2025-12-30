@@ -12,31 +12,39 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          user: mithielesh
+          user: your-username # <--- REPLACE WITH YOUR USERNAME
           template: classic
           
-          # 1. ONLY SHOW ACTIVITY
-          # This keeps the top "Commits", "PRs" list, but removes repos/followers/etc.
+          # 1. BASE SETTINGS
+          # Only show the "Activity" section (Commits, PRs, etc.)
           base: activity
           config_timezone: Asia/Kolkata
           
-          # 2. ENABLE STREAKS (But hide the graph below)
+          # 2. ENABLE STREAK DATA
+          # This plugin calculates streaks and commits per day.
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # 3. CUSTOM CYBER CSS (The Magic Part) 🪄
+          # 3. CUSTOM CSS (The Fix)
           config_style: CSS
           config_css: |
-             /* CYBER COLORS */
+             /* --- INCREASE FONT SIZE --- */
+             /* Makes all text on the card slightly bigger */
+             body { font-size: 16px !important; }
+             
+             /* --- CYBER THEME COLORS --- */
              body { --color-text-primary: #00ff41; --color-text-secondary: #00ff41; --color-bg: #0a0a0a; }
              .field { color: #ffffff !important; }
              
-             /* HIDE THE 3D GRAPH VISUAL */
+             /* --- HIDE THE 3D GRAPH --- */
+             /* This hides the visual graph shown in image_0.png and image_1.png */
              .isocalendar-plot { display: none !important; }
              
-             /* HIDE THE DISCLAIMER TEXT & FOOTER */
+             /* --- CLEANUP LAYOUT --- */
+             /* Adjust spacing now that the graph is gone */
+             .isocalendar-items { margin-top: 0px !important; }
+             
+             /* --- HIDE FOOTER --- */
+             /* Removes the disclaimer and timestamp from the bottom */
              .footer { display: none !important; }
              .caption { display: none !important; }
-             
-             /* CLEANUP LAYOUT */
-             .isocalendar-items { margin-top: -20px; } /* Pull text up */
