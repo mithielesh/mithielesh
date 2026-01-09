@@ -1,6 +1,8 @@
+<!---
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" height="400" style="object-fit: cover;" alt="Bongo Cat" />
 </div>
+--->
 <br>
 
 <div align="center">
