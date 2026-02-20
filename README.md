@@ -44,7 +44,7 @@ class SystemArchitect:
         
     def get_expertise(self):
         return {
-            "backend": ["Node.js", "REST APIs"],
+            "backend": ["FastAPI", "REST APIs"],
             "cloud": ["Docker", "AWS", "GCP"],
             "databases": ["MySQL", "PostgreSQL", "MongoDB"],
             "frontend": ["React", "HTML5", "CSS3"],]
