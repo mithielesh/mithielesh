@@ -39,7 +39,7 @@ class SystemArchitect:
         self.name = "Mithielesh N"
         self.passion = "A student who loves to know how things work"
         self.language_stack = [
-            "Python", "JavaScript", "Java", "HTML", "CSS"
+            "Python", "Java", "SQL"
         ]
         
     def get_expertise(self):
