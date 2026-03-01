@@ -54,8 +54,7 @@ class SystemArchitect:
         return [
             "Data Structure Algorithms",
             "Cloud and AI in Cloud",
-            "Machine Learning / Deep Learning",
-            "Competitive Programming"
+            "Machine Learning, Gen AI"
         ]
 ```
 
