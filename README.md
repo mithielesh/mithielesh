@@ -144,7 +144,7 @@ $ ./visualize_contributions.sh
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Shutting+down+connection...;[PROCESS_EXITED_WITH_CODE_0]&font=Fira+Code&center=true&width=440&height=50&color=00ff41&background=0a0a0a&vCenter=true&pause=1000&random=false" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Closing+connection...;[PROCESS_EXITED_WITH_CODE_0]&font=Fira+Code&center=true&width=440&height=50&color=00ff41&background=0a0a0a&vCenter=true&pause=1000&random=false" />
 </p>
 
 </div>
