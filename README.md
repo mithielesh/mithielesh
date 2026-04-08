@@ -1,6 +1,6 @@
 Hi, I'm Mithielesh.
 
-I'm a 3rd year engineering student, welcome to my profile. I use this space to experiment with new ideas, figure out how things work, and just build things I find interesting. 
+I'm a 3rd year engineering student. Welcome to my profile. I use this space to experiment with new ideas, figure out how things work, and just build things I find interesting. 
 
 I'm always open to collaborating on cool projects or just chatting about tech. Feel free to reach out!
 
